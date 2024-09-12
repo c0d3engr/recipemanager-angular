@@ -1,0 +1,18 @@
+.recipe-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .recipe-item {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .recipe-item button {
+    margin-left: 10px;
+  }

@@ -1,0 +1,32 @@
+.recipe-form {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 5px;
+  }
+  
+  .form-array-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .form-array-item input {
+    flex-grow: 1;
+    margin-right: 10px;
+  }
